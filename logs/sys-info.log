@@ -1,0 +1,6 @@
+2023-07-09 10:55:43 [main] INFO  com.ruoyi.RuoYiApplication - Starting RuoYiApplication using Java 1.8.0_361 on mingkedeMacBook-Pro.local with PID 3069 (/Users/mingke/Documents/Code/RuoYi-Vue-Plus/ruoyi-admin/target/classes started by mingke in /Users/mingke/Documents/Code/RuoYi-Vue-Plus)
+2023-07-09 10:55:43 [main] INFO  com.ruoyi.RuoYiApplication - The following 1 profile is active: "dev"
+2023-07-09 10:55:43 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2023-07-09 10:55:47 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2023-07-09 10:55:47 [main] INFO  c.b.d.d.DynamicRoutingDataSource - dynamic-datasource detect P6SPY plugin and enabled it
+2023-07-09 10:55:47 [main] INFO  com.zaxxer.hikari.HikariDataSource - master - Starting...
